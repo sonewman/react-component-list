@@ -1,5 +1,5 @@
 # React-Component-List
-[![Code Climate](https://codeclimate.com/github/sonewman/react-component-list/badges/gpa.svg)](https://codeclimate.com/github/sonewman/react-component-list)
+[![Code Climate](https://codeclimate.com/github/sonewman/react-component-list/badges/gpa.svg)](https://codeclimate.com/github/sonewman/react-component-list) [![Build Status](https://travis-ci.org/sonewman/react-component-list.svg?branch=master)](https://travis-ci.org/sonewman/react-component-list)
 
 ### Usage:
 ```javascript
